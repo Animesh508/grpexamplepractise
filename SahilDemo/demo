@@ -1,0 +1,36 @@
+let employee =[
+    {
+        name : "sahil",
+        age : 25,
+        salary: 50000
+    },
+     {
+        name : "nike",
+        age : 30,
+        salary: 45000,
+     },
+     {
+        name : "anemesh",
+        age : 35,
+        salary: 35000,
+     },
+     {
+        name : "poonam",
+        age : 40,
+        salary : 25000,
+
+     },
+];
+let i = 0;
+while(i<employee.length){
+    if (employee[i].age>39){
+        employee[i].bonus=10000;
+        
+    }else{
+        employee[i].bonus=20000;
+    }
+    
+  i=i+1;
+
+}
+console.log(employee);

@@ -1,0 +1,11 @@
+let student = {
+    name:"sahil",
+    age : 26,
+    schoolName :"skdv",
+    rollnumber: 5,
+
+}
+student.division='c';
+student.name = "poonam";
+
+console.log(student);
