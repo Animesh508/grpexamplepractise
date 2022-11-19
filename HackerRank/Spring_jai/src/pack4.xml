@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+
+xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:p="http://www.springframework.org/schema/p"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans  
+               http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+              
+              <bean id = "stud1" class = " pack4.student">
+              <property name="name" value = "Piyush"></property>
+              <property name="rollNumber" value="25"></property>
+              <property name="marks">
+              <list>
+              <value>56</value>
+              <value>66</value>
+              <value>65</value>
+              <value>63</value>
+              <value>43</value>
+              </list>
+              </property>
+              <property name="adr">
+              <list>
+              <ref bean ="a1"></ref>
+              <ref bean = "a2"></ref>
+              </list>
+              </property>
+              <property name="map">
+              <map>
+              <entry key ="123" value ="Jai"></entry>
+              <entry key = "125" value = "Animesh"></entry>
+              <!--   <entry key-ref="ann" value-ref=""/> -->
+              </map>
+              </property>
+              <property name="p">
+              <props><prop key = "url"></prop>
+              <prop key = "user_name">Jay</prop>
+              </props>
+              
+              </property>
+              
+              </bean>
+              
+              <bean id = "a1" class="pack4.address">
+              <property name="addressLine1" value = "qt no 2 shindola mines"></property>
+              </bean>
+              <bean id = "a2" class ="pack4.address">
+              <property name="addressLine1" value = "bhim nagar chatrapati nagpur "></property>
+              </bean>
+ 
+               
+</beans>
