@@ -2,7 +2,7 @@ function printTebale(s){
     let i = 1;
     while(i<=10){
         console.log(i*s);
-        2++;
+        i++;
 
     }
 console.log("---------------------------------")
