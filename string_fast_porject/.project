@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Spring_jai</name>
+	<name>string_fast_porject</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1669787857493</id>
+			<id>1669787857500</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
