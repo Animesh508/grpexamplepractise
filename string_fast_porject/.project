@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>springdemo</name>
+	<name>string_fast_porject</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,11 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-<<<<<<< HEAD
-			<id>1669544148902</id>
-=======
-			<id>1669787857497</id>
->>>>>>> 3ae5e50a2482c424205867bd1b354859a8e99b8c
+			<id>1669787857500</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
