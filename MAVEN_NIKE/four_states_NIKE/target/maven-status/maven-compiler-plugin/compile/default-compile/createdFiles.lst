@@ -1,0 +1,9 @@
+three_states_controller\MoviesRecordController_NIKE.class
+three_states_utility\Constlabels_NIKE.class
+three_state_services\MovieRecordServiceImpl_NIKE.class
+tree_states_dao\MoviesRecordDao.class
+three_state_services\Movie.class
+three_states_utility\DbConnection_NIKE.class
+three_state_services\MoviesRecordService_NIKE.class
+tree_states_dao\MoviesRecordDaoImpl.class
+three_states_client\ClientNIKE.class
