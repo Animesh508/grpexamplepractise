@@ -6,6 +6,15 @@ public class Student {
 	private String lastName;
 	private Integer age;
 	private String gender;
+	
+	public Student(Integer id, String firstName, String lastName, Integer age, String gender) {
+		
+		this.id = id;
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.age = age;
+		this.gender = gender;
+	}
 	public Integer getId() {
 		return id;
 	}

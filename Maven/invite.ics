@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221216T103000Z
+DTEND:20221216T113000Z
+DTSTAMP:20221215T145457Z
+ORGANIZER;CN=Prajna Gangopadhyay:mailto:prajna@tradelab.in
+UID:5dcltd17suc3pgpt4t0uafkhn0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Alpesh Jamgade;X-NUM-GUESTS=0:mailto:alpesh@tradelab.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=animeshpatil43@gmail.com;X-NUM-GUESTS=0:mailto:animeshpatil43@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Prajna Gangopadhyay;X-NUM-GUESTS=0:mailto:prajna@tradelab.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=alpesh@cloudtradetech.com;X-NUM-GUESTS=0:mailto:alpesh@cloudtradete
+ ch.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Archana Singh;X-NUM-GUESTS=0:mailto:archanasingh@tradelab.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Sagar Chaudhari;X-NUM-GUESTS=0:mailto:sagar.c@tradelab.in
+X-GOOGLE-CONFERENCE:https://meet.google.com/kub-tptw-kha
+X-MICROSOFT-CDO-OWNERAPPTID:778878300
+CREATED:20221215T145455Z
+DESCRIPTION:Hi Alpesh\,\n\nPlease share test link on Friday (16 Dec 2022) a
+ t 4 PM.\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/kub
+ -tptw-kha\nOr dial: (US) +1 929-282-0832 PIN: 991455905#\nMore phone number
+ s: https://tel.meet/kub-tptw-kha?pin=6678614085174&hs=7\n\nLearn more about
+  Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do no
+ t edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20221215T145455Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Online Test || Backend || Animesh Patil || Tradelab
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

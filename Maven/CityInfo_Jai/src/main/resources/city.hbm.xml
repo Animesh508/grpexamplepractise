@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+    <hibernate-mapping>
+    <class name = "cityInfo_jai.City_jai" table = "city">
+    <id name ="CityCode" column = "CityCode"></id>
+    <property name = "CityName" column = "CityName"></property>
+    <property name = "CityState" column = "CityState"></property>
+    <property name = "CityPin" column = "CityPin"></property>
+    </class>
+    
+    
+    </hibernate-mapping>
